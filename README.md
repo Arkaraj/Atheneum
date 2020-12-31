@@ -1,5 +1,5 @@
 # atheneum
-A very basic backend server made through Node.js and express, book api that can perform basic CURD operations.
+A very basic backend server made through Node.js and express and save the datas through Mysql, book api that can perform basic CURD operations.
 > To run it.
 
 ```npm install``` </br>
