@@ -3,7 +3,9 @@ A very basic backend server made through Node.js and express, book api that can 
 > To run it.
 
 ```npm install``` </br>
- ```nodemon app.js```
+ ```nodemon app.js``` </br>
+
+Make a .env file and store Mysql Database's username and password
 
 | Route        | HTTP Verb          | Description  |
 | ------------- |:-------------:| -----:|
